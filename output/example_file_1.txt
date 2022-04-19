@@ -1,0 +1,12 @@
+insert into vactination(row1,row2,row3,row4,row5) values
+('F','30-39','06','Tres de Febrero',2022-02-12),
+('M','12-17','90','Tafí Viejo',2021-12-10),
+('M','50-59','06','Esteban Echeverría',2021-08-24),
+('M','40-49','06','Hurlingham',2021-08-25),
+('M','12-17','50','Godoy Cruz',2022-04-13),
+('F','30-39','14','Santa María',2021-07-05),
+('M','40-49','50','Las Heras',2021-07-07),
+('F','12-17','06','La Matanza',2022-01-12),
+('F','12-17','06','Lomas de Zamora',2022-01-11),
+('F','<12','06','General San Martín',2022-01-23),
+('F','18-29','14','Ischilín',2022-01-28);
